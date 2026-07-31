@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Great+Vibes&weight=500&size=60&duration=3500&pause=1500&color=39FF14&center=true&vCenter=true&width=650&height=100&lines=Gokulavasan+J" alt="Signature" />
+<img src="https://readme-typing-svg.demolab.com?font=Alex+Brush&weight=500&size=70&duration=4000&pause=100000&repeat=false&color=39FF14&center=true&vCenter=true&width=650&height=120&lines=Gokulavasan+J" alt="Signature" />
 
 ### Frontend / Full-Stack Web Developer crafting fast, scalable, database-driven web experiences
 
@@ -42,6 +42,14 @@
 
 ---
 
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mysql,tailwind,git,github,vscode,figma,postman&theme=dark" />
+</p>
+
+---
+
 ## 🚀 Current Projects
 
 ### 🛒 [E-Cart — Full-Stack E-Commerce Platform](https://gokulavasan2005.github.io/E-Cart/)
@@ -60,7 +68,13 @@ A self-calibrating, room-personalized power anomaly monitoring system that learn
 
 ---
 
+## 🧰 Tools I Use
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,figma,npm,vercel,linux&theme=dark" />
+</p>
+
+---
 
 ## 📊 GitHub Stats
 
