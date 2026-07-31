@@ -89,19 +89,17 @@ A self-calibrating, room-personalized power anomaly monitoring system that learn
 
 ---
 
-## 🐍 Contribution Snake
+## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gokulavasan2005/gokulavasan2005/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gokulavasan2005&theme=react-dark&hide_border=true&bg_color=0f0f0f&color=39FF14&line=39FF14&point=ffffff" />
 </p>
-
-> ⚙️ **One-time setup required** — this snake animation eats your contribution graph and needs a GitHub Action to generate it. See setup steps below the file.
 
 ---
 
 <div align="center">
 
-![Visitor Count](https://profile-counter.glitch.me/gokulavasan2005/count.svg)
+![Visitor Count](https://komarev.com/ghpvc/?username=gokulavasan2005&label=Profile%20Views&color=39FF14&style=for-the-badge)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:39FF14,100:0f0f0f&height=100&section=footer" />
 
