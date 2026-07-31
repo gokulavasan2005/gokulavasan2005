@@ -11,11 +11,11 @@
 <br/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:39FF14&height=180&section=header&animation=fadeIn" />
+  <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=40&duration=4000&pause=100000&repeat=false&color=39FF14&center=true&vCenter=true&width=500&height=70&lines=Welcome+to+my+GitHub" alt="Welcome" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=40&duration=4000&pause=100000&repeat=false&color=39FF14&center=true&vCenter=true&width=500&height=70&lines=Welcome+to+my+GitHub" alt="Welcome" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:39FF14&height=180&section=header&animation=fadeIn" />
 </p>
 
 ---
