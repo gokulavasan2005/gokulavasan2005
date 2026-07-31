@@ -79,8 +79,8 @@ A self-calibrating, room-personalized power anomaly monitoring system that learn
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gokulavasan2005&show_icons=true&theme=radical&hide_border=true&bg_color=0f0f0f&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokulavasan2005&layout=compact&theme=radical&hide_border=true&bg_color=0f0f0f&title_color=39FF14&text_color=c9d1d9" />
+  <img height="300" src="https://github-readme-stats.vercel.app/api?username=gokulavasan2005&show_icons=true&theme=radical&hide_border=true&bg_color=0f0f0f&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9" />
+  <img height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokulavasan2005&layout=compact&theme=radical&hide_border=true&bg_color=0f0f0f&title_color=39FF14&text_color=c9d1d9" />
 </p>
 
 <p align="center">
