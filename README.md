@@ -1,10 +1,10 @@
 <div align="center">
 
-# Hi 👋, I'm Gokulavasan J
+<img src="https://readme-typing-svg.demolab.com?font=Great+Vibes&weight=500&size=60&duration=3500&pause=1500&color=39FF14&center=true&vCenter=true&width=650&height=100&lines=Gokulavasan+J" alt="Signature" />
 
 ### Frontend / Full-Stack Web Developer crafting fast, scalable, database-driven web experiences
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Developer;React+%7C+Next.js+%7C+Node.js+%7C+MySQL;Building+Scalable+Client-Server+Apps;Exploring+Edge+AI+%2B+TinyML+on+ESP32" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=600&size=26&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Developer;React+%7C+Next.js+%7C+Node.js+%7C+MySQL;Building+Scalable+Client-Server+Apps;Exploring+Edge+AI+%2B+TinyML+on+ESP32" alt="Typing SVG" />
 
 </div>
 
