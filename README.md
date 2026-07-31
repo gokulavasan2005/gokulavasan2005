@@ -42,6 +42,14 @@
 
 ---
 
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mysql,tailwind,git,github,vscode,figma,postman&theme=dark" />
+</p>
+
+---
+
 ## 🚀 Current Projects
 
 ### 🛒 [E-Cart — Full-Stack E-Commerce Platform](https://gokulavasan2005.github.io/E-Cart/)
@@ -60,12 +68,19 @@ A self-calibrating, room-personalized power anomaly monitoring system that learn
 
 ---
 
+## 🧰 Tools I Use
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,figma,npm,vercel,linux&theme=dark" />
+</p>
+
+---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="300" src="https://github-readme-stats.vercel.app/api?username=gokulavasan2005&show_icons=true&theme=radical&hide_border=true&bg_color=0f0f0f&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9" />
-  <img height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokulavasan2005&layout=compact&theme=radical&hide_border=true&bg_color=0f0f0f&title_color=39FF14&text_color=c9d1d9" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gokulavasan2005&show_icons=true&theme=radical&hide_border=true&bg_color=0f0f0f&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokulavasan2005&layout=compact&theme=radical&hide_border=true&bg_color=0f0f0f&title_color=39FF14&text_color=c9d1d9" />
 </p>
 
 <p align="center">
@@ -74,11 +89,13 @@ A self-calibrating, room-personalized power anomaly monitoring system that learn
 
 ---
 
-## 📈 Contribution Graph
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gokulavasan2005&theme=react-dark&hide_border=true&bg_color=0f0f0f&color=39FF14&line=39FF14&point=ffffff" />
+  <img src="https://raw.githubusercontent.com/gokulavasan2005/gokulavasan2005/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 </p>
+
+> ⚙️ **One-time setup required** — this snake animation eats your contribution graph and needs a GitHub Action to generate it. See setup steps below the file.
 
 ---
 
