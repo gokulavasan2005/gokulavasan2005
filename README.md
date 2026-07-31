@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Alex+Brush&weight=500&size=70&duration=4000&pause=100000&repeat=false&color=39FF14&center=true&vCenter=true&width=650&height=120&lines=Gokulavasan+J" alt="Signature" />
+<img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=70&duration=4000&pause=100000&repeat=false&color=39FF14&center=true&vCenter=true&width=650&height=120&lines=Gokulavasan+J" alt="Signature" />
 
 ### Frontend / Full-Stack Web Developer crafting fast, scalable, database-driven web experiences
 
@@ -11,7 +11,11 @@
 <br/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:39FF14&height=180&section=header&text=Welcome%20to%20my%20GitHub&fontSize=38&fontColor=39FF14&animation=fadeIn&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:39FF14&height=180&section=header&animation=fadeIn" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=40&duration=4000&pause=100000&repeat=false&color=39FF14&center=true&vCenter=true&width=500&height=70&lines=Welcome+to+my+GitHub" alt="Welcome" />
 </p>
 
 ---
