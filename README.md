@@ -1,32 +1,38 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=70&duration=4000&pause=100000&repeat=false&color=39FF14&center=true&vCenter=true&width=650&height=120&lines=Gokulavasan+J" alt="Signature" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=42&duration=3000&pause=1000000&color=39FF14&center=true&vCenter=true&width=650&height=80&lines=Gokulavasan+J" alt="Name" />
 
-### Frontend / Full-Stack Web Developer crafting fast, scalable, database-driven web experiences
+### Frontend / Full-Stack Web Developer — building fast, scalable, database-driven web experiences
 
-<img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=600&size=26&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Developer;React+%7C+Next.js+%7C+Node.js+%7C+MySQL;Building+Scalable+Client-Server+Apps;Exploring+Edge+AI+%2B+TinyML+on+ESP32" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1200&color=39FF14&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Developer;React+%7C+Next.js+%7C+Node.js+%7C+MySQL;Building+Scalable+Client-Server+Apps;Exploring+Edge+AI+%2B+TinyML+on+ESP32" alt="Typing SVG" />
 
 </div>
 
-<br/>
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:39FF14&height=180&section=header&text=Welcome%20to%20my%20GitHub&fontSize=38&fontColor=ffffff&fontAlignY=38&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:39FF14&height=160&section=header&text=Welcome%20to%20my%20GitHub&fontSize=34&fontColor=ffffff&fontAlignY=38&animation=fadeIn" />
 </p>
 
 ---
 
-## 🧠 About Me
+## About Me
 
-- 🎓 Frontend-focused Full-Stack Developer, building production-grade web applications with **Next.js, React, Node.js, Express.js & MySQL**
-- 🛍️ Currently building **E-Cart**, a full-stack e-commerce platform with secure auth, cart, wishlist & REST APIs
-- 🔋 Currently researching **Edge-AI + TinyML** for smart energy monitoring on **ESP32 microcontrollers**
-- 🌱 Constantly leveling up in scalable client-server architecture, responsive UI, and clean API design
+- 🎓 Frontend-focused Full-Stack Developer building production-grade web applications with **Next.js, React, Node.js, Express.js & MySQL**
+- 🛍️ Currently building **E-Cart** — a full-stack e-commerce platform with secure auth, cart, wishlist & REST APIs
+- 🔋 Currently researching **Edge-AI + TinyML** for smart energy monitoring on **ESP32** microcontrollers
+- 🌱 Leveling up in scalable client-server architecture, responsive UI design, and clean API design
 - ⚡ Fun fact: I like my code fast, my UIs responsive, and my energy monitors smarter than my Wi-Fi router
 
 ---
 
-## 🔗 Connect With Me
+## Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mysql,js,html,css,cpp,git,github,vscode&theme=dark" />
+</p>
+
+---
+
+## Connect With Me
 
 <p align="center">
   <a href="https://gokulavasan2005.github.io/portfolio/" target="_blank">
@@ -42,33 +48,35 @@
 
 ---
 
+## Current Projects
 
-
----
-
-## 🚀 Current Projects
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 🛒 [E-Cart — Full-Stack E-Commerce Platform](https://gokulavasan2005.github.io/E-Cart/)
+
 Full-stack e-commerce web app built with **Next.js, React, Node.js, Express.js & MySQL**, featuring secure authentication, product management, shopping cart, wishlist, and RESTful API integration on a scalable client-server architecture.
 
 `Next.js` `React` `Node.js` `Express.js` `MySQL` `REST API`
 
----
+</td>
+<td width="50%" valign="top">
 
-### 🔋 Edge-Intelligence Driven Smart Energy Monitoring (TinyML on ESP32)
+### 🔋 Edge-Intelligence Smart Energy Monitoring
 *🚧 Work in progress — not yet released*
 
-A self-calibrating, room-personalized power anomaly monitoring system that learns a room's normal usage pattern on-device and alerts via SMS when a genuine anomaly occurs — without identifying individual appliances.
+A self-calibrating, room-personalized power anomaly monitoring system built on **ESP32**, learning a room's normal usage pattern on-device and alerting via SMS when a genuine anomaly occurs — without identifying individual appliances.
 
-`TinyML` `ESP32` `Edge AI` `Non-Intrusive Load Monitoring` `Embedded Systems`
+`TinyML` `ESP32` `Edge AI` `NILM` `Embedded Systems`
+
+</td>
+</tr>
+</table>
 
 ---
 
-
-
----
-
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=gokulavasan2005&show_icons=true&theme=radical&hide_border=true&bg_color=0f0f0f&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9" />
@@ -81,11 +89,46 @@ A self-calibrating, room-personalized power anomaly monitoring system that learn
 
 ---
 
-## 📈 Contribution Graph
+## Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gokulavasan2005&theme=react-dark&hide_border=true&bg_color=0f0f0f&color=39FF14&line=39FF14&point=ffffff" />
 </p>
+
+### 3D Contribution Calendar
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Graph" />
+</p>
+
+> To enable the 3D graph above, add the `yoshi389111/github-profile-3d-contrib` GitHub Action to a repo named exactly like your username (`gokulavasan2005/gokulavasan2005`). It commits an SVG at `profile-3d-contrib/profile-green-animate.svg` on a daily schedule — that path is already referenced above, so it will render automatically once the Action runs once.
+
+```yaml
+# .github/workflows/3d-contrib.yml
+name: GitHub-Profile-3D-Contrib
+on:
+  schedule:
+    - cron: "0 18 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-3d-contrib
+    steps:
+      - uses: actions/checkout@v4
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A .
+          git commit -m "Update 3D contribution graph" || exit 0
+          git push
+```
 
 ---
 
