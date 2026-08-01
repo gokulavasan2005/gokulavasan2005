@@ -62,11 +62,6 @@ A self-calibrating, room-personalized power anomaly monitoring system that learn
 
 ---
 
-## 🧰 Tools I Use
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,figma,npm,vercel,linux&theme=dark" />
-</p>
 
 ---
 
