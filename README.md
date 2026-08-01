@@ -42,13 +42,7 @@
 
 ---
 
-## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mysql,tailwind,git,github,vscode,figma,postman&theme=dark" />
-</p>
-
----
 
 ## 🚀 Current Projects
 
