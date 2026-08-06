@@ -50,11 +50,7 @@
 
 ## Projects
 
-<p>
-  <a href="https://gokulavasan2005.github.io/E-Cart/">
-    <img src="https://img.shields.io/badge/🛒_E--Cart-Full--Stack_E--Commerce_Platform-0f0f0f?style=flat&labelColor=39FF14&color=161b22&logoColor=39FF14" />
-  </a>
-</p>
+### 🛒 [E-Cart — Full-Stack E-Commerce Platform](https://gokulavasan2005.github.io/E-Cart/)
 
 Full-stack e-commerce web app built with **Next.js, React, Node.js, Express.js & MySQL**, featuring secure authentication, product management, shopping cart, wishlist, and RESTful API integration on a scalable client-server architecture.
 
@@ -62,10 +58,7 @@ Full-stack e-commerce web app built with **Next.js, React, Node.js, Express.js &
 
 ---
 
-<p>
-  <img src="https://img.shields.io/badge/🔋_Edge--Intelligence-Smart_Energy_Monitoring-0f0f0f?style=flat&labelColor=39FF14&color=161b22&logoColor=39FF14" />
-</p>
-
+### 🔋 Edge-Intelligence Smart Energy Monitoring
 *🚧 Work in progress — not yet released*
 
 A self-calibrating, room-personalized power anomaly monitoring system built on **ESP32**, learning a room's normal usage pattern on-device and alerting via SMS when a genuine anomaly occurs — without identifying individual appliances.
@@ -74,16 +67,11 @@ A self-calibrating, room-personalized power anomaly monitoring system built on *
 
 ---
 
-<p>
-  <a href="https://url-shortener-phi-jade.vercel.app/">
-    <img src="https://img.shields.io/badge/🔗_URL_Shortener-Flask_%2B_PostgreSQL-0f0f0f?style=flat&labelColor=39FF14&color=161b22&logoColor=39FF14" />
-  </a>
-</p>
+### 🔗 [URL Shortener](https://url-shortener-phi-jade.vercel.app/)
 
 Full-featured URL shortener built with **Flask** and **PostgreSQL** (SQLite fallback for local dev), featuring click analytics with Chart.js, QR code generation, custom aliases, link expiration, and IP-based rate limiting. Deployed with Gunicorn.
 
 `Flask` `PostgreSQL` `SQLite` `Gunicorn` `Chart.js`
-
 
 ---
 
