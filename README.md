@@ -52,7 +52,7 @@
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### 🛒 [E-Cart — Full-Stack E-Commerce Platform](https://gokulavasan2005.github.io/E-Cart/)
 
@@ -61,7 +61,7 @@ Full-stack e-commerce web app built with **Next.js, React, Node.js, Express.js &
 `Next.js` `React` `Node.js` `Express.js` `MySQL` `REST API`
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### 🔋 Edge-Intelligence Smart Energy Monitoring
 *🚧 Work in progress — not yet released*
@@ -71,20 +71,13 @@ A self-calibrating, room-personalized power anomaly monitoring system built on *
 `TinyML` `ESP32` `Edge AI` `NILM` `Embedded Systems`
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### 🔗 [URL Shortener](https://url-shortener-phi-jade.vercel.app/)
 
 Full-featured URL shortener built with **Flask** and **PostgreSQL** (SQLite fallback for local dev), featuring click analytics with Chart.js, QR code generation, custom aliases, link expiration, and IP-based rate limiting. Deployed with Gunicorn.
 
 `Flask` `PostgreSQL` `SQLite` `Gunicorn` `Chart.js`
-
-</td>
-<td width="50%" valign="top">
-
-<!-- next project -->
 
 </td>
 </tr>
