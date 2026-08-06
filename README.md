@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=42&duration=3000&pause=1000000&color=39FF14&center=true&vCenter=true&width=650&height=80&lines=Gokulavasan+J" alt="Name" />
+<img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=60&duration=3000&pause=1000000&color=39FF14&center=true&vCenter=true&width=650&height=100&lines=Gokulavasan+J" alt="Name" />
 
 ### Frontend / Full-Stack Web Developer — building fast, scalable, database-driven web experiences
 
