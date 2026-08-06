@@ -24,11 +24,6 @@
 
 ---
 
-## Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mysql,js,html,css,cpp,git,github,vscode&theme=dark" />
-</p>
 
 ---
 
