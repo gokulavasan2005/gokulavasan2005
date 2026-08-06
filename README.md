@@ -75,7 +75,7 @@ A self-calibrating, room-personalized power anomaly monitoring system built on *
 <tr>
 <td width="50%" valign="top">
 
-### 🔗 [URL Shortener](https://github.com/gokulavasan2005/URl_Shortener)
+### 🔗 [URL Shortener](https://url-shortener-phi-jade.vercel.app/)
 
 Full-featured URL shortener built with **Flask** and **PostgreSQL** (SQLite fallback for local dev), featuring click analytics with Chart.js, QR code generation, custom aliases, link expiration, and IP-based rate limiting. Deployed with Gunicorn.
 
