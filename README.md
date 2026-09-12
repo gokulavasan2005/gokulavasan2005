@@ -19,6 +19,7 @@
 - 🎓 Frontend-focused Full-Stack Developer building production-grade web applications with **Next.js, React, Node.js, Express.js & MySQL**
 - 🛍️ Currently building **E-Cart** — a full-stack e-commerce platform with secure auth, cart, wishlist & REST APIs
 - 🔋 Currently researching **Edge-AI + TinyML** for smart energy monitoring on **ESP32** microcontrollers
+- 💰 Shipped **Profit & Interest Calculator** — a Next.js + TypeScript finance tool for simple interest & returns
 - 🌱 Leveling up in scalable client-server architecture, responsive UI design, and clean API design
 - ⚡ Fun fact: I like my code fast, my UIs responsive, and my energy monitors smarter than my Wi-Fi router
 
@@ -45,14 +46,6 @@
 
 ## Projects
 
-### 🛒 [E-Cart — Full-Stack E-Commerce Platform](https://gokulavasan2005.github.io/E-Cart/)
-
-Full-stack e-commerce web app built with **Next.js, React, Node.js, Express.js & MySQL**, featuring secure authentication, product management, shopping cart, wishlist, and RESTful API integration on a scalable client-server architecture.
-
-`Next.js` `React` `Node.js` `Express.js` `MySQL` `REST API`
-
----
-
 ### 🔋 Edge-Intelligence Smart Energy Monitoring
 *🚧 Work in progress — not yet released*
 
@@ -67,6 +60,24 @@ A self-calibrating, room-personalized power anomaly monitoring system built on *
 Full-featured URL shortener built with **Flask** and **PostgreSQL** (SQLite fallback for local dev), featuring click analytics with Chart.js, QR code generation, custom aliases, link expiration, and IP-based rate limiting. Deployed with Gunicorn.
 
 `Flask` `PostgreSQL` `SQLite` `Gunicorn` `Chart.js`
+
+---
+
+### 🛒 [E-Cart — Full-Stack E-Commerce Platform](https://gokulavasan2005.github.io/E-Cart/)
+
+Full-stack e-commerce web app built with **Next.js, React, Node.js, Express.js & MySQL**, featuring secure authentication, product management, shopping cart, wishlist, and RESTful API integration on a scalable client-server architecture.
+
+`Next.js` `React` `Node.js` `Express.js` `MySQL` `REST API`
+
+---
+
+### 💰 [Profit & Interest Calculator](https://profit-interest-calculator.vercel.app/)
+
+A fast, responsive personal finance tool built with **Next.js and TypeScript**. Computes exact simple interest earnings, total returns, and time durations between any two dates, with inputs tailored to traditional Indian finance practices (interest rate per ₹100 per month or per year) for instant, visual financial breakdowns right in the browser.
+
+`Next.js` `TypeScript` `Finance`
+
+[Source →](https://github.com/gokulavasan2005/profit-interest-calculator)
 
 ---
 
@@ -88,4 +99,3 @@ Full-featured URL shortener built with **Flask** and **PostgreSQL** (SQLite fall
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gokulavasan2005&theme=react-dark&hide_border=true&bg_color=0f0f0f&color=39FF14&line=39FF14&point=ffffff" />
 </p>
-
