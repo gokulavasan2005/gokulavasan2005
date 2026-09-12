@@ -17,8 +17,9 @@
 ## About Me
 
 - 🎓 Frontend-focused Full-Stack Developer building production-grade web applications with **Next.js, React, Node.js, Express.js & MySQL**
-- 🛍️ Currently building **E-Cart** — a full-stack e-commerce platform with secure auth, cart, wishlist & REST APIs
 - 🔋 Currently researching **Edge-AI + TinyML** for smart energy monitoring on **ESP32** microcontrollers
+- 🔗 Shipped **URL Shortener** — a Flask + PostgreSQL app with analytics, QR codes & rate limiting
+- 🛍️ Currently building **E-Cart** — a full-stack e-commerce platform with secure auth, cart, wishlist & REST APIs
 - 💰 Shipped **Profit & Interest Calculator** — a Next.js + TypeScript finance tool for simple interest & returns
 - 🌱 Leveling up in scalable client-server architecture, responsive UI design, and clean API design
 - ⚡ Fun fact: I like my code fast, my UIs responsive, and my energy monitors smarter than my Wi-Fi router
